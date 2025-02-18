@@ -1,4 +1,4 @@
-Student Name: Aliya
+Student Name : Aliya
 
 This Assignment demonstrates a system for managing BlogPosts, Person, and their Blog.
 
