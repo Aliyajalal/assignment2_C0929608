@@ -1,0 +1,17 @@
+[
+    {
+      "userId": "U001",
+      "firstName": "Aliya",
+      "lastName": "Jalal",
+      "age": 100,
+      "gender": "Female"
+    },
+    {
+      "userId": "U002",
+      "firstName": "Frem",
+      "lastName": "Chingu",
+      "age": 35,
+      "gender": "Male"
+    }
+  ]
+  

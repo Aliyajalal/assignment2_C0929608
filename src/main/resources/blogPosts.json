@@ -1,0 +1,18 @@
+[
+    {
+      "articleId": "A001",
+      "writerId": "U001",
+      "content": "This is a test article about Java."
+    },
+    {
+      "articleId": "A002",
+      "writerId": "U002",
+      "content": "This is another article discussing Spring Boot."
+    },
+    {
+      "articleId": "A003",
+      "writerId": "U001",
+      "content": "Here is a third article, this time on Docker."
+    }
+  ]
+  
